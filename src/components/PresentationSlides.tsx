@@ -205,7 +205,7 @@ const PresentationSlides = () => {
           <BudgetItem 
             title="Marketing Tools & Analytics" 
             amount="$10,000" 
-            description="CRM integration, tracking, automation platforms" 
+            description="AI adoption, CRM integration, tracking, automation platforms" 
           />
           <BudgetItem 
             title="Contingency & Testing" 
