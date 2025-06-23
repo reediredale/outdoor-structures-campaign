@@ -123,16 +123,16 @@ const PresentationSlides = () => {
         <h3 className="text-3xl text-brand-primary mb-8">Key Market Drivers</h3>
         <div className="space-y-6">
           <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
-            <span className="font-semibold text-brand-secondary text-lg">Work-from-home trend:</span>
-            <span className="text-gray-700 ml-2 text-lg">Increased demand for home office sheds and multipurpose structures</span>
-          </div>
-          <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
             <span className="font-semibold text-brand-secondary text-lg">Property investment:</span>
             <span className="text-gray-700 ml-2 text-lg">Homeowners adding value through premium outdoor structures</span>
           </div>
           <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
             <span className="font-semibold text-brand-secondary text-lg">Lifestyle evolution:</span>
             <span className="text-gray-700 ml-2 text-lg">Outdoor living and entertainment spaces prioritised</span>
+          </div>
+          <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
+            <span className="font-semibold text-brand-secondary text-lg">Work-from-home trend:</span>
+            <span className="text-gray-700 ml-2 text-lg">Increased demand for home office sheds and multipurpose structures</span>
           </div>
           <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
             <span className="font-semibold text-brand-secondary text-lg">Storage needs:</span>
