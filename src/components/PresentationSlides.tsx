@@ -332,6 +332,10 @@ const PresentationSlides = () => {
         <h3 className="text-3xl text-brand-primary mb-6">Content Pillars</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
+            <span className="font-semibold text-brand-secondary text-lg">Design Inspiration:</span>
+            <p className="text-gray-700 text-base">Styling ideas, functional layouts, property integration</p>
+          </div>
+          <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
             <span className="font-semibold text-brand-secondary text-lg">Quality & Craftsmanship:</span>
             <p className="text-gray-700 text-base">Behind-the-scenes build process, material sourcing</p>
           </div>
@@ -339,10 +343,7 @@ const PresentationSlides = () => {
             <span className="font-semibold text-brand-secondary text-lg">Customer Success Stories:</span>
             <p className="text-gray-700 text-base">Before/after transformations, testimonials</p>
           </div>
-          <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
-            <span className="font-semibold text-brand-secondary text-lg">Design Inspiration:</span>
-            <p className="text-gray-700 text-base">Styling ideas, functional layouts, property integration</p>
-          </div>
+
           <div className="bg-white p-6 rounded-lg border-l-4 border-brand-primary">
             <span className="font-semibold text-brand-secondary text-lg">Technical Expertise:</span>
             <p className="text-gray-700 text-base">Engineering insights, weather resistance, compliance</p>
